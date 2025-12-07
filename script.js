@@ -15,9 +15,7 @@ if (loginBtn) {
 }
 
 let vehicles = [];
-const imageURL =
-  "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=600&q=60";
-
+const imageURL ="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/5e80fcb6-3f8e-480c-945b-30a5359eb40e/JNmYjkVr3WOjsrbu.png"
 let cardBox = document.getElementById("cardBox");
 let addBtn = document.getElementById("addBtn");
 
